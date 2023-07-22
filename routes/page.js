@@ -2,4 +2,4 @@ const express = require('express');
 
 const router = express.Router();
 
-router.post('')
+router.post('글귀 추가');
